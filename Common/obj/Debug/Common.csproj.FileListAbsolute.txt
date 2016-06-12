@@ -1,0 +1,4 @@
+E:\soft\服务端广播\Common\bin\Debug\KellRemoting.Common.dll
+E:\soft\服务端广播\Common\bin\Debug\KellRemoting.Common.pdb
+E:\soft\服务端广播\Common\obj\Debug\KellRemoting.Common.dll
+E:\soft\服务端广播\Common\obj\Debug\KellRemoting.Common.pdb

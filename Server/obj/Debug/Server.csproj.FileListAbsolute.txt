@@ -1,0 +1,12 @@
+E:\soft\服务端广播\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\soft\服务端广播\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\soft\服务端广播\Server\obj\Debug\KellRemoting.Server.BroadCastForm.resources
+E:\soft\服务端广播\Server\obj\Debug\KellRemoting.Server.ServerForm.resources
+E:\soft\服务端广播\Server\bin\Debug\KellRemoting.Server.exe
+E:\soft\服务端广播\Server\bin\Debug\KellRemoting.Server.pdb
+E:\soft\服务端广播\Server\bin\Debug\KellRemoting.Common.dll
+E:\soft\服务端广播\Server\bin\Debug\KellRemoting.RemoteObject.dll
+E:\soft\服务端广播\Server\bin\Debug\KellRemoting.Common.pdb
+E:\soft\服务端广播\Server\bin\Debug\KellRemoting.RemoteObject.pdb
+E:\soft\服务端广播\Server\obj\Debug\KellRemoting.Server.exe
+E:\soft\服务端广播\Server\obj\Debug\KellRemoting.Server.pdb

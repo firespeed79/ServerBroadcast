@@ -1,0 +1,9 @@
+E:\soft\服务端广播\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\soft\服务端广播\Client\obj\Debug\KellRemoting.Client.ClientForm.resources
+E:\soft\服务端广播\Client\bin\Debug\KellRemoting.Client.exe
+E:\soft\服务端广播\Client\bin\Debug\KellRemoting.Client.pdb
+E:\soft\服务端广播\Client\bin\Debug\KellRemoting.Common.dll
+E:\soft\服务端广播\Client\bin\Debug\KellRemoting.Common.pdb
+E:\soft\服务端广播\Client\obj\Debug\KellRemoting.Client.exe
+E:\soft\服务端广播\Client\obj\Debug\KellRemoting.Client.pdb
+E:\soft\服务端广播\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+E:\soft\服务端广播\RemoteObject\obj\Debug\RemoteObject.csprojResolveAssemblyReference.cache
+E:\soft\服务端广播\RemoteObject\bin\Debug\KellRemoting.RemoteObject.dll
+E:\soft\服务端广播\RemoteObject\bin\Debug\KellRemoting.RemoteObject.pdb
+E:\soft\服务端广播\RemoteObject\bin\Debug\KellRemoting.Common.dll
+E:\soft\服务端广播\RemoteObject\bin\Debug\KellRemoting.Common.pdb
+E:\soft\服务端广播\RemoteObject\obj\Debug\KellRemoting.RemoteObject.dll
+E:\soft\服务端广播\RemoteObject\obj\Debug\KellRemoting.RemoteObject.pdb
